@@ -1,0 +1,5 @@
+this is the sample file to test the git 
+if it is printing on the txt document then 
+i have successfully created this text file 
+from windows command line
+Thanks 
